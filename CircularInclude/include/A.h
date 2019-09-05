@@ -3,6 +3,7 @@
 
 #include"B.h"
 
+class Girl;
 class Boy
 {
 public:
